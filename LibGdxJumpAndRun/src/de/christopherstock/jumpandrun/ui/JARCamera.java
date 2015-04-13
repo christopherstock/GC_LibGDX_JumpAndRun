@@ -118,7 +118,6 @@
             if ( iTargetY > JARLevel.getCurrent().iType.iLevelHeight - JARScreen.HEIGHT ) iTargetY = JARLevel.getCurrent().iType.iLevelHeight - JARScreen.HEIGHT;
         }
 
-        @SuppressWarnings( "unused" )
         private void setAssignmentX( LibRect2D playerRect )
         {
             //directly assign horizontal target

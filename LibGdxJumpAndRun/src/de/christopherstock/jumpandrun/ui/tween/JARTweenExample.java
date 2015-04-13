@@ -19,7 +19,6 @@
     *   @deprecated Unused. Implemented own tween system.
     *****************************************************************************/
     @Deprecated
-    @SuppressWarnings( "deprecation" )
     public class JARTweenExample
     {
         protected   static                  TweenManager    tweenManager            = null;
